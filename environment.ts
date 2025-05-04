@@ -1,0 +1,1 @@
+export const serverUrl = "https://hackernews.gentletree-53381a30.centralindia.azurecontainerapps.io";
