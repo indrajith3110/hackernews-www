@@ -1,1 +1,1 @@
-export const serverUrl = "https://hackernews.gentletree-53381a30.centralindia.azurecontainerapps.io";
+export const serverUrl = process.env.NEXT_PUBLIC_SERVER_URL;
